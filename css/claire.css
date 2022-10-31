@@ -1,0 +1,149 @@
+/*FUENTES////////////////*/
+body{
+    font-family: 'Assistant', sans-serif;  
+}
+h2{
+    text-transform: uppercase;
+    text-align: center;
+}
+h2,h3{
+    font-family: 'Archivo', sans-serif;
+}
+h4{
+    font-family: 'Assistant', sans-serif; 
+}
+
+
+/*SKIN////////////////*/
+h3{
+    font-size: 1.563rem;
+}
+
+
+
+.nav-link:hover{
+    background-color: black!important;
+    color: white!important;
+} 
+
+
+.dropdown-item:hover{
+    background-color: black!important;
+     color: white!important;
+}
+
+.navbar-nav .nav-link:active {
+    font-weight: bolder;
+    color: black;
+    background-color: white!important;
+}
+
+.navegacion {
+	width: 100%;
+    background-color: white!important;
+}
+
+
+
+.redes a{
+    color: white!important;
+}
+.logo{
+    height: 80px;
+    width: auto;
+    justify-content: center;
+    display: block;
+    margin: auto;  
+}
+
+.btn-primary{
+    background-color: black!important;
+    border-color: white;
+}
+
+footer{
+    background-color:black;
+    text-align: center;
+    justify-content: center;
+    color: white!important;
+    font-size: 0.875rem;
+    padding-top: 30px;
+}
+
+.titulo{
+    text-shadow: 5px 5px 8px black;
+}
+ 
+.fondo{
+    background-color: white;
+}
+.button-container{
+    position: relative;
+    display: flex;
+	justify-content: center;
+}
+.btn-dark {
+    background-color: black!important;
+    position: absolute;
+    bottom: 10px;
+}
+/* .btn-dark:hover{
+    background-color: white!important;
+    color: black;
+} */
+
+label{
+    font-weight: bolder;
+}
+.redes a{
+    text-decoration: none;
+}
+a{
+    color: black;
+    text-decoration: underline;
+    
+}
+ a:hover{
+    color: dimgray;  
+}
+.texto{
+    text-align: justify;
+}
+
+.form-control:active{
+    border-color: black;
+    background-color: black;
+}
+
+
+
+/*LAYOUT////////////////*/
+
+.container{
+    justify-content: center;
+    text-align: center;
+    padding-bottom: 40px;
+}
+.valoracion {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+}
+
+.valoracion input {
+    position: absolute;
+    top: -100px;
+}
+
+
+.valoracion label {
+    float: right;
+    color: #c1b8b8;
+    font-size: 20px; 
+}
+
+.valoracion label:hover,
+.valoracion label:hover ~ label,
+.valoracion input:checked ~ label {
+    color: black;
+}

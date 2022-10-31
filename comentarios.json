@@ -1,0 +1,32 @@
+{
+    "20200923135023": {
+        "id_producto": "1",
+        "correo": "c1@hotmail.com",
+        "comentario": "Excelente",
+        "puntuacion": "\u2605 \u2605 \u2605 \u2605 \u2605"
+    },
+    "20200921152103": {
+        "id_producto": "4",
+        "correo": "c2@hotmail.com",
+        "comentario": "Muy bueno",
+        "puntuacion": "\u2605 \u2605 \u2605 \u2605"
+    },
+    "20200920101145": {
+        "id_producto": "6",
+        "correo": "c4@hotmail.com",
+        "comentario": "Bueno",
+        "puntuacion": "\u2605 \u2605 \u2605"
+    },
+    "20200917094525": {
+        "id_producto": "3",
+        "correo": "c5@hotmail.com",
+        "comentario": "Malo",
+        "puntuacion": "\u2605 \u2605"
+    },
+    "2020091021033": {
+        "id_producto": "2",
+        "correo": "c6@hotmail.com",
+        "comentario": "Genial!",
+        "puntuacion": "\u2605 \u2605 \u2605 \u2605"
+    }
+}

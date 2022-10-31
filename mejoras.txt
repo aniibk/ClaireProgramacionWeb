@@ -1,0 +1,12 @@
+Aplicamos 4 mejoras para el final
+
+1_Agregamos un botón de carrito en detalle.php que funciona con un array nuevo llamado carrito.json.
+Este carrito.json se imprime en la pagina carrito.php, a la vez que tambien se puede eliminar los productos.
+
+2_ Botones "eliminar" y "continuar compra". 
+El primero borra los elementos, el segundo cambia el estado de "pendiente" a "comprado"
+
+3_Archivos productos.json y index.php modificados para poder lograr la demostración de los "nuevos" productos en una sección llamada "nuevos".
+
+4_ La ventana modal con script en archivos carrito.php y contacto.php
+con un echo el cual muestra una ventana modal codeado con json.
